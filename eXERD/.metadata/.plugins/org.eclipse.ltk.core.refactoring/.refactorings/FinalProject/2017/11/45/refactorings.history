@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="자원 &apos;FinalProject/member.exerd&apos;을(를) &apos;otp.exerd&apos;(으)로 이름 바꾸기" description="&apos;member.exerd&apos; 자원 이름 바꾸기" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="member.exerd" name="otp.exerd" stamp="1510213163179" updateReferences="true"/>&#x0A;<refactoring comment="자원 &apos;FinalProject/otp.exerd&apos;을(를) &apos;voicedoorlock.exerd&apos;(으)로 이름 바꾸기" description="&apos;otp.exerd&apos; 자원 이름 바꾸기" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="otp.exerd" name="voicedoorlock.exerd" stamp="1510306360641" updateReferences="true"/>
+</session>

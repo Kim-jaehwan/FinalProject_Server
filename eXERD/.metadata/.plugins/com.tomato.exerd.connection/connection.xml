@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <connection>
+    <productId>com.tomato.db.oracle_10g</productId>
+    <productName>Oracle 9i/10g/11g/12c</productName>
+    <name>hr oracle</name>
+    <driverJar>C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext\ojdbc6.jar</driverJar>
+    <driverClass>oracle.jdbc.OracleDriver</driverClass>
+    <url>jdbc:oracle:thin:@127.0.0.1:1521:XE</url>
+    <properties>
+      <user>hr</user>
+      <port>1521</port>
+      <password>tiger</password>
+      <sId>XE</sId>
+      <host>127.0.0.1</host>
+      <internal_logon>normal</internal_logon>
+    </properties>
+    <extendedProperties>
+      <connectionString />
+    </extendedProperties>
+  </connection>
+  <connection>
+    <productId>com.tomato.db.oracle_10g</productId>
+    <productName>Oracle 9i/10g/11g/12c</productName>
+    <name>vdl oracle</name>
+    <driverJar>C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext\ojdbc6.jar</driverJar>
+    <driverClass>oracle.jdbc.driver.OracleDriver</driverClass>
+    <url>jdbc:oracle:thin:@127.0.0.1:1521:XE</url>
+    <properties>
+      <user>vdl</user>
+      <port>1521</port>
+      <password>voice</password>
+      <sId>XE</sId>
+      <host>127.0.0.1</host>
+      <internal_logon>normal</internal_logon>
+    </properties>
+    <extendedProperties>
+      <connectionString />
+    </extendedProperties>
+  </connection>
+</database>
+
